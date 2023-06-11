@@ -12,11 +12,13 @@
 <h3 align="center">I am pursuing my Undergrad in CS. I am currently exploring various domains in Tech.</h3>
 
 - 🔭 I’m currently working on Android Apps and Machine Learning
-- 🌱 I’m an web developer and an avid competitive programmer
+- 🌱 I’m a budding web developer and an avid competitive programmer
 - 👯 I’m looking to collaborate with other developers and work on many projects!
-- 🤔 I’m looking for help with React and Express
+- 🤔 I’m looking for help with Blockchain and Deep Learning
+- 💬 Ask me about AI, ML or NLP
 - 🥅 2023 Goals: Contribute to Open Source projects and build some awesome projects
 - 📫 How to reach me: akshajnevgi@gmail.com
+- 💫 Fun fact: I'm INTJ-A
 
 
 <h3 align="left">Languages and Tools:</h3>
