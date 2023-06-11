@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I'm Akshaj Nevgi 👋</h1>
-<h3 align="left">I am pursuing my Undergrad in CSE and currently exploring various domains in Tech.</h3>
+<h3 align="center">I am pursuing my Undergrad in CSE and currently exploring various domains in Tech.</h3>
 
 <p align="center">
 <a href="https://twitter.com/akshaj_nevgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshaj_nevgi" height="30" width="40" /></a>
