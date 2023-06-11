@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, I'm Akshaj Nevgi 👋</h1>
+<h1 align="center">Hello There, I'm Akshaj 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshaj-n&label=Profile%20views&color=0e75b6&style=flat" alt="akshaj-n" /> </p>
 
 <p align="center">
