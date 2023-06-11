@@ -31,3 +31,6 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaj-n&theme=highcontrast" alt="akshaj-n"></td>
   </tr>
 </table>
+
+
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaj-N&theme=solarized_dark"  display=block width=100% height=auto alt="1"></p>
