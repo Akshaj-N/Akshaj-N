@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I'm Akshaj Nevgi 👋</h1>
-<h3 align="center">I am a Computer Science Student exploring various domains in Tech. I love working on interesting problems and projects. I prefer hands on learning.</h3>
+<h3 align="center">I am a CSE Student exploring various domains in Tech. I love working on interesting problems and projects. I prefer hands on learning.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaj-n" alt="akshaj-n" /></a> </p>
 
