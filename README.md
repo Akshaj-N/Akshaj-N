@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I'm Akshaj Nevgi 👋</h1>
-<h3 align="center">I am pursuing my Undergrad in CSE and currently exploring various domains in Tech.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshaj-n&label=Profile%20views&color=0e75b6&style=flat" alt="akshaj-n" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/akshaj_nevgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshaj_nevgi" height="30" width="40" /></a>
@@ -8,6 +8,8 @@
 <a href="https://www.hackerearth.com/@akshajnevgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akshajnevgi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshaj_nevgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaj_nevgi" height="30" width="40" /></a>
 </p>
+
+<h3 align="center">I am pursuing my Undergrad in CSE and currently exploring various domains in Tech.</h3>
 
 - 🔭 I’m currently working on Android Apps and Machine Learning
 - 🌱 I’m an web developer and an avid competitive programmer
