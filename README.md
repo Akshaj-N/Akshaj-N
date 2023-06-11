@@ -24,10 +24,9 @@
 
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaj-n&show_icons=true&locale=en&layout=compact" display=block width=100% height=auto alt="1"></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaj-n&show_icons=true&theme=dark&locale=en&layout=compact" display=block width=100% height=auto alt="1"></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaj-n&show_icons=true&theme=highcontrast&locale=en" display=block height=190 align="center" alt="2"></td>
   </tr>
 </table>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaj-n&" alt="akshaj-n" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaj-n&theme=highcontrast" alt="akshaj-n" /></p>
