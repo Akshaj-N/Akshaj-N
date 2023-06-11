@@ -9,7 +9,7 @@
 <a href="https://www.leetcode.com/akshaj_nevgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaj_nevgi" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">I am a Undergrad pursuing Computer Science. I am currently exploring various domains in Tech.</h3>
+<h3 align="center">I am an Undergrad Student pursuing Computer Science. I am currently exploring various domains in Tech. I love working on interesting problems and projects. I am a generalist and an enthusiastic learner. I prefer hands on learning.</h3>
 
 - 🔭 I’m currently working on Android Apps and Machine Learning
 - 🌱 I’m a budding web developer and an avid competitive programmer
