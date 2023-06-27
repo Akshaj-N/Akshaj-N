@@ -28,8 +28,8 @@
 
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaj-n&show_icons=true&theme=highcontrast&locale=en" display=block height=auto width=100% align="center" alt="1"></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaj-n&show_icons=true&theme=dark&locale=en&layout=compact" display=block height=auto width=100% align="center" alt="2"></td>
+    <td><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshaj-n&show_icons=true&theme=highcontrast&locale=en" display=block height=auto width=100% align="center" alt="1"></td>
+    <td><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=akshaj-n&show_icons=true&theme=dark&locale=en&layout=compact" display=block height=auto width=100% align="center" alt="2"></td>
   </tr>
   <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaj-n&theme=highcontrast" display=block height=auto width=100% align="center" alt="3"></td>
