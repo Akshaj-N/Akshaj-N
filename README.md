@@ -18,7 +18,6 @@
 - 💬 Ask me about AI, ML or NLP
 - 🥅 2023 Goals: Contribute to Open Source projects and build some awesome projects
 - 📫 How to reach me: akshajnevgi@gmail.com
-- 💫 Fun fact: I'm an INTJ-A
 
 
 <h3 align="left">Languages and Tools:</h3>
