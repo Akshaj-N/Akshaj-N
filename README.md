@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://twitter.com/akshaj_nevgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshaj_nevgi" height="30" width="40" /></a>
-<a href="https://instagram.com/akkkiiii_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akkkiiii_27" height="30" width="40" /></a>
+<a href="https://instagram.com/_akshaj23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akkkiiii_27" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akshajnevgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshajnevgi" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@akshajnevgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akshajnevgi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshaj_nevgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaj_nevgi" height="30" width="40" /></a>
